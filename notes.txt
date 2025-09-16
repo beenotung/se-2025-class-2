@@ -1,3 +1,5 @@
 This is my first file in the project.
 
 We will use git to track our project files.
+
+We will add more files and folders to this git repo over time.
